@@ -6,4 +6,6 @@ package com.qf.dao;
 public interface UserInfoMapper {
 
     public boolean addUserInfo();
+
+    public boolean updateUserInfo();
 }
